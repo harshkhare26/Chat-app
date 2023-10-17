@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  box-sizing: content-box;
+  overflow: scroll;
+  font-size: 16px;
+  font-family: "Arial", sans-serif;
+}
+
+.link-tag {
+  text-decoration: underline;
+  color: white;
+}
+
+/* media queries */
+.right-sidebar {
+  padding: 10px;
+  background-color: #220077;
+  background-image: url(../../images/background.jpg);
+}
+
+.left-sidebar {
+  background-color: #FFBB00;
+}
+
